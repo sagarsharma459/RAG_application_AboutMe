@@ -2,7 +2,7 @@ import requests
 import os
 from dotenv import load_dotenv
 load_dotenv()
-API_KEY = os.getenv("EURI_API_KEY")
+API_KEY = os.getenv("API_KEY")
 
 def generate_completion(prompt, model="gpt-4.1-nano", temperature=0.3):
     url = "https://api.euron.one/api/v1/euri/chat/completions"
