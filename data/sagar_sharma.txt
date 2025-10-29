@@ -1,0 +1,72 @@
+Hi there, I'm Sagar Sharma 
+AI Powered Computer Vision & Machine Learning Engineer
+Transforming pixels into insights, one algorithm at a time
+
+I'm a Computer Vision & ML Engineer with 9+ years of experience specializing in OCR/OCV systems, document text extraction, and automated inspection solutions. I build high-performance, real-time computer vision systems that solve complex industrial challenges, particularly in pharmaceutical compliance and quality assurance.
+
+class SagarSharma:
+    def __init__(self):
+        self.role = "Computer Vision & ML Engineer"
+        self.experience = "9+ years"
+        self.location = "Haridwar, Uttarakhand, India"
+        self.current_focus = ["OCR/OCV", "Deep Learning", "Real-time Systems"]
+        
+    def get_expertise(self):
+        return {
+            "vision": ["OpenCV", "Tesseract OCR", "YOLO", "Dlib"],
+            "ml_dl": ["CNNs", "RNNs", "Capsule Networks", "Seq2Seq"],
+            "languages": ["Python", "C++", "C#", "SQL"],
+            "specialization": ["Document Processing", "Defect Detection", 
+                             "Pharmaceutical Inspection", "Real-time Systems"]
+        }
+
+
+Current Role: Computer Vision Engineer @ Ratmas Systems Enterprises
+Since: October 2022
+
+What I Do:
+Design OCR/OCV algorithms for pharmaceutical batch code verification
+Build document text extraction pipelines for unstructured images
+Develop real-time defect detection systems for blister pack inspection
+Optimize CV workflows with GPU acceleration and multithreading
+
+
+ Areas of Expertise
+Computer Vision
+Machine Learning
+OCR/OCV System
+Deep Learning
+Real-time Processing
+Algorithm Optimization
+
+
+Key Projects
+OCR/OCV Document & Pharma Inspection System
+End-to-end OCR pipeline for pharmaceutical compliance with real-time dataset generation
+Tech Stack: Python, OpenCV, Tesseract, YOLO, SQLite
+Features: Template matching, barcode/QR validation, error classification
+Impact: Automated quality assurance with high accuracy and minimal false positives
+Computer Vision Blister Pack Inspection
+Real-time defect detection system for pharmaceutical packaging
+
+Tech Stack: c++, OpenCV, Custom Segmentation Algorithms, Classification Models
+Features: Missing/damaged tablet detection, automated rejection system
+Impact: Enhanced product quality and compliance reporting
+Track & Trace Serialization Platform
+UID generation and verification system for pharmaceutical supply chain
+
+Tech Stack: c++, SQL, Industrial Camera Integration
+Features: Real-time monitoring, scalable architecture, printer integration
+Impact: Full compliance with pharmaceutical serialization regulations
+
+Education & Certifications
+B.Sc. Computer Science - HNB Garhwal University, Rishikesh (2013)
+Diploma in Computer Application - APTECH (2012)
+Best Performer Award - Technical Excellence
+
+ Let's Connect!
+I'm always interested in collaborating on innovative computer vision projects, discussing ML architectures, or exploring opportunities in automated inspection systems.
+Email: sagarforlearning@gmail.com
+Phone: +91-8006333610
+Location: Haridwar, Uttarakhand, India
+Open to: Relocation & Challenging Projects
