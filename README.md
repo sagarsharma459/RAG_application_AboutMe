@@ -129,7 +129,7 @@ If you’d like to improve the app or fix bugs, fork the repo and submit a pull 
 
 **Sagar Sharma**  
 🔗 [GitHub Profile](https://github.com/sagarsharma459)  
-📧 [Contact Me](mailto:your_email@example.com)
+📧 [Linked In](https://www.linkedin.com/in/sagar-sharma-492756102/)
 
 ---
 
