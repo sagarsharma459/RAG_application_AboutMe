@@ -7,7 +7,7 @@ This project demonstrates how to use **FAISS**, **OpenAI Embeddings**, and **Lan
 
 ## 🚀 Demo
 🔗 **Live Demo:** [Streamlit App](https://sagarsharmaragpplication.streamlit.app/)  
-*(Replace with your actual deployment URL once hosted)*
+
 
 ---
 
