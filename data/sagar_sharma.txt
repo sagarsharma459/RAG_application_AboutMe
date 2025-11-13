@@ -1,53 +1,78 @@
 Hi there, I'm Sagar Sharma 
-AI Powered Computer Vision & Machine Learning Engineer
-Transforming pixels into insights, one algorithm at a time
+AI-Powered Machine Vision Engineer & Healthcare Tech Specialist
+Where Healthcare Intelligence Meets Computer Vision & Automation
 
-I'm a Computer Vision & ML Engineer with 9+ years of experience specializing in OCR/OCV systems, document text extraction, and automated inspection solutions. I build high-performance, real-time computer vision systems that solve complex industrial challenges, particularly in pharmaceutical compliance and quality assurance.
+I am a Machine Vision / AI Developer and US Healthcare RCM Specialist with 9+ years of combined experience across:
+
+🏥 RCM, AR & Denials, EDI 837/835, Claims Analytics
+🤖 C++, Python, SQL, OpenCV, Machine Vision
+🧪 Pharma Track & Trace (DGFT), QR Serialization
+⚙️ Automation (Macro Express, Browser Automation Studio)
+🧠 GenAI RAG Chatbots & AI Workflow Automation
+I specialize in building machine vision inspection systems, healthcare data intelligence tools, and GenAI automation for real-world applications — especially in the pharmaceutical packaging and healthcare compliance domains.
 
 class SagarSharma:
     def __init__(self):
-        self.role = "Computer Vision & ML Engineer"
+        self.role = "AI & Machine Vision Engineer"
+        self.domain = "US Healthcare RCM + Pharma Tracking"
         self.experience = "9+ years"
-        self.location = "Haridwar, Uttarakhand, India"
-        self.current_focus = ["OCR/OCV", "Deep Learning", "Real-time Systems"]
+        self.focus = ["Machine Vision", "OpenCV", "GenAI RAG", "Automation"]
         
-    def get_expertise(self):
+    def expertise(self):
         return {
-            "vision": ["OpenCV", "Tesseract OCR", "YOLO", "Dlib"],
-            "ml_dl": ["CNNs", "RNNs", "Capsule Networks", "Seq2Seq"],
-            "languages": ["Python", "C++", "C#", "SQL"],
-            "specialization": ["Document Processing", "Defect Detection", 
-                             "Pharmaceutical Inspection", "Real-time Systems"]
+            "computer_vision": ["OpenCV", "Image Processing", "Blister Inspection", "QR/Barcode"],
+            "data_analytics": ["Python", "SQL", "Pandas"],
+            "healthcare": ["RCM", "Denials", "EDI 837/835", "Claims Analytics"],
+            "automation": ["Macro Express", "Browser Automation Studio"],
+            "genai": ["RAG Pipelines", "Embeddings", "Chatbots"]
         }
 
 
-Current Role: Computer Vision Engineer @ Ratmas Systems Enterprises
-Since: October 2022
+🔬 Current Role: AI / Machine Vision Developer — Ratmas Enterprises
+📅 Experience: 9+ Years (Healthcare + AI + Automation)
 
-What I Do:
-Design OCR/OCV algorithms for pharmaceutical batch code verification
-Build document text extraction pipelines for unstructured images
-Develop real-time defect detection systems for blister pack inspection
-Optimize CV workflows with GPU acceleration and multithreading
+What I Build:
+🩺 Healthcare RCM Analytics & Automation Systems
+🔍 Machine Vision Blister & Capsule Inspection (OpenCV/C++)
+📦 DGFT Track & Trace Serialization Platforms
+🧠 GenAI RAG Assistants for Claims/Datasets
+⚡ Desktop & Browser Automations for RCM Workflows
 
 
- Areas of Expertise
-Computer Vision
-Machine Learning
-OCR/OCV System
-Deep Learning
-Real-time Processing
-Algorithm Optimization
+Automation & GenAI
+Macro Express
+Browser Automation Studio
+RAG Pipelines
+Streamlit Dashboards
+LangChain
 
 
 Key Projects
-OCR/OCV Document & Pharma Inspection System
-End-to-end OCR pipeline for pharmaceutical compliance with real-time dataset generation
-Tech Stack: Python, OpenCV, Tesseract, YOLO, SQLite
-Features: Template matching, barcode/QR validation, error classification
-Impact: Automated quality assurance with high accuracy and minimal false positives
-Computer Vision Blister Pack Inspection
-Real-time defect detection system for pharmaceutical packaging
+🔍 1. Blister & Capsule Inspection System (C++ / OpenCV)
+Real-time defect detection for pharmaceutical blister packs
+Features:
+
+Missing / broken tablet detection
+Color & shape validation
+OK/NOK classification
+Image transformation & contour detection
+💊 2. DGFT Track & Trace QR Serialization (Python/C++)
+Pharmaceutical UID generation, verification & compliance
+Features:
+
+Unique UID & QR code generation
+SQL logging & validation
+Integration with TIJ printers
+Auto-upload to DGFT/servers
+🤖 3. RAG-Based Healthcare Assistant (Python + LangChain)
+Chatbot for Claims, EDI & Denial Analysis
+Features:
+
+Upload PDFs/CSVs
+Intelligent QA over healthcare datasets
+HuggingFace embeddings
+Payer rules / Denial summaries
+
 
 Tech Stack: c++, OpenCV, Custom Segmentation Algorithms, Classification Models
 Features: Missing/damaged tablet detection, automated rejection system
@@ -60,13 +85,23 @@ Features: Real-time monitoring, scalable architecture, printer integration
 Impact: Full compliance with pharmaceutical serialization regulations
 
 Education & Certifications
-B.Sc. Computer Science - HNB Garhwal University, Rishikesh (2013)
-Diploma in Computer Application - APTECH (2012)
-Best Performer Award - Technical Excellence
+B.Sc (HNB Garhwal University — 2013)
+Learning Data Analytics (Coursera)
+Python for Data Science (IBM)
 
- Let's Connect!
-I'm always interested in collaborating on innovative computer vision projects, discussing ML architectures, or exploring opportunities in automated inspection systems.
-Email: sagarforlearning@gmail.com
-Phone: +91-8006333610
+Areas of Expertise
+Machine Vision              ████████████████████░  95%
+Healthcare RCM/EDI         ██████████████████░░░  90%
+AI/ML                      ██████████████████░░░  88%
+Automation (Macro/BAS)     ████████████████████░  95%
+DGFT Serialization         ███████████████████░░  90%
+GenAI RAG Systems          █████████████████░░░░  85%
+
+
+Let's Connect!
+I'm always open to roles in AI, Machine Vision, Healthcare Tech, Automation & GenAI Systems.
+📧 Email: sagarforlearning@gmail.com
+📱 Phone: +91-8006333610
+🌍 Open to: Remote / Global Opportunities
 Location: Haridwar, Uttarakhand, India
 Open to: Relocation & Challenging Projects
